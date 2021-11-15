@@ -1,0 +1,3 @@
+.gitconfig
+init.vim AppData/Local/nvim
+plug.vim AppData/Local/nvim-data/site/autoload

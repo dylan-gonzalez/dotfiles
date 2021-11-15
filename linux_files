@@ -1,0 +1,9 @@
+.gitconfig
+.gitignore
+.bash_profile
+.vimrc
+init.vim .config/nvim
+plug.vim .local/share/nvim/site/autoload
+.vscode
+.tmux.conf
+.oh-my-zsh
